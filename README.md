@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @aseelalio
-- 👀 I’m interested in the Data Analytics feild 
-- 🌱 I’m currently learning SQL and R 
+- 👋 Hi, I’m Aseel Alotaibi
+- 👀 An Aspiring Data Analyst
+
+
+
+
 
 <!---
 aseelalio/aseelalio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
